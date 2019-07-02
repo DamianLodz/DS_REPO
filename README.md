@@ -1,2 +1,61 @@
-# DataScience
-Data science projects
+# Data science projects
+Welcome guest. Repository over here contains some of my projects. Data is mostly obtained from Kaggle and Analytics Vidhya.
+
+# List of projects:
+
+# 1. Exploration of FIFA 19.
+-dataset includes lastest edition FIFA 2019 players attributes. 
+
+# 2. Heart disease - EDA and mdelling
+-goal of the project is to predict if patient whether has heart disease
+
+Data Set Information:
+
+This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them.
+
+Attribute Information(source: kaggle.com):
+> 1. age
+> 2. sex
+> 3. chest pain type (4 values)
+> 4. resting blood pressure
+> 5. serum cholestoral in mg/dl
+> 6. fasting blood sugar > 120 mg/dl
+> 7. resting electrocardiographic results (values 0,1,2)
+> 8. maximum heart rate achieved
+> 9. exercise induced angina
+> 10. oldpeak = ST depression induced by exercise relative to rest
+> 11. the slope of the peak exercise ST segment
+> 12. number of major vessels (0-3) colored by flourosopy
+> 13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+
+# 3. AirBNB - Seattle EDAs
+- dataset contains information about 'listings' which is full descriptions and average review score, reviews for each reviewer and calendar including availability and price for specific day
+
+# 4. Loan status - approved or not
+- Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form (source: analyticsvidhya.com)
+
+Data description
+
+Loan_ID - Unique Loan ID
+Gender - Male/ Female
+Married - Applicant married (Y/N)
+Dependents - Number of dependents
+Education - Applicant Education (Graduate/ Under Graduate)
+Self_Employed - Self employed (Y/N)
+ApplicantIncome - Applicant income
+CoapplicantIncome - Coapplicant income
+LoanAmount -Loan amount in thousands
+Loan_Amount_Term - Term of loan in months
+Credit_History -credit history meets guidelines
+Property_Area - Urban/ Semi Urban/ Rural
+Loan_Status - Loan approved (Y/N)
+
+# 5. Food market forecasting challenge
+source: analyticsvidhya.com
+- Your client is a meal delivery company which operates in multiple cities. They have various fulfillment centers in these cities for dispatching meal orders to their customers. The client wants you to help these centers with demand forecasting for upcoming weeks so that these centers will plan the stock of raw materials accordingly.
+
+The replenishment of majority of raw materials is done on weekly basis and since the raw material is perishable, the procurement planning is of utmost importance. Secondly, staffing of the centers is also one area wherein accurate demand forecasts are really helpful. Given the following information, the task is to predict the demand for the next 10 weeks (Weeks: 146-155) for the center-meal combinations in the test set:  
+
+Historical data of demand for a product-center combination (Weeks: 1 to 145)
+Product(Meal) features such as category, sub-category, current price and discount
+Information for fulfillment center like center area, city information etc.
