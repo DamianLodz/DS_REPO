@@ -1,6 +1,12 @@
 # Data science projects
 Welcome guest. Repository over here contains some of my projects. Data is mostly obtained from Kaggle and Analytics Vidhya.
 
+Projects 1 and 3 I highly reccomend to view through links below due to Plotly library which graphs can't be rendered on github.
+
+https://nbviewer.jupyter.org/github/DamianLodz/DataScience/blob/master/AirBNB%20-%20Seattle%20EDAs/airbnb-seattle-edas.ipynb
+
+https://nbviewer.jupyter.org/github/DamianLodz/DataScience/blob/master/FIFA%2019%20EDA/exploration-of-fifa-19.ipynb
+
 # List of projects:
 
 # 1. Exploration of FIFA 19.
