@@ -65,3 +65,10 @@ The replenishment of majority of raw materials is done on weekly basis and since
 Historical data of demand for a product-center combination (Weeks: 1 to 145)
 Product(Meal) features such as category, sub-category, current price and discount
 Information for fulfillment center like center area, city information etc.
+
+# 6. E-commerce sales
+source: kaggle.com
+
+This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+
+Main goal is to cluster client by RFM segmentation algorithm.
