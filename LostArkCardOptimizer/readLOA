@@ -1,0 +1,4 @@
+Projekt, którego głównym zadaniem jest optymalizacja kolejności ulepszania kart w celu maksymalizacji "zysku".
+1. Stworzenie bazy danych zdjęć wszystkich dostępnych kart (jednorazowy proces)
+2. Rozponawanie kart posiadanych oraz ich aktualnego poziomu ulepszenia przez użytkownika na podstawie screena z gry (wymagane otwarte okno kart oraz odpowiednia ustawiona rozdzielczość)
+3. Na podstawie posiadanych kart użytkownika oraz ich aktualnego poziomu algorytm wylicza optymalną kolejność ulepszania kart w celu maksymalizacji zysku z uwagi na ograniczony koszt ulepszenia.
