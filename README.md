@@ -1,3 +1,4 @@
+Keep in mind that some of the projects might be not up to date with functions used in the notebooks.
 # Data science projects
 Welcome guest. Repository over here contains some of my projects. Data is mostly obtained from Kaggle and Analytics Vidhya.
 
