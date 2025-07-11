@@ -1,4 +1,4 @@
-Keep in mind that some of the projects might be not up to date with functions used in the notebooks.
+Keep in mind that projects listed here are mostly based on databases widely available in the internet (Kaggle etc.) so there is probability that you have already seen some of the data however all the analysis is made by myself. Some of the functions might not be up to date due to libraries updates.
 # Data science projects
 Welcome guest. Repository over here contains some of my projects. Data is mostly obtained from Kaggle and Analytics Vidhya.
 
