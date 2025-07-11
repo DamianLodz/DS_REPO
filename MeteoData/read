@@ -1,0 +1,3 @@
+Źródło danych: https://danepubliczne.imgw.pl/
+
+Celem jest pozyskanie ogólniedostępnych danych meteorologicznych oraz stacji, na których są zbierane, uzupełnione o Krajowy Rejestr Urzędowy Podziału Terytorialnego Kraju, gdzie TERYT zostanie przydzielony na podstawie szerokości oraz długości geograficznej. Następnie stworzenie bazy sqlite, która jest źródłem danych w PowerBI.
